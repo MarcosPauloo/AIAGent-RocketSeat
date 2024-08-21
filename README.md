@@ -36,7 +36,7 @@ This project is a comprehensive tool for analyzing stock prices and market news 
 To run the application locally, use the following command:
 
 ```bash
-streamlit run app.py
+streamlit run crewai-stocks.py
 ```
 
 This will start a Streamlit web application where you can enter a stock ticker symbol and receive a detailed analysis.
